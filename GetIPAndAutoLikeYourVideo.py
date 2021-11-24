@@ -53,7 +53,7 @@ def Auto_Like_Your_Video(url):
         driver = webdriver.Chrome(options=chromeOptions)
         
         # 打开视频播放页
-        driver.get("https://www.bilibili.com/video/BV1hi4y1x7PM")
+        driver.get("https://www.bilibili.com/video/BV1gP4y1V73n")
         time.sleep(7)
         
         # 获取视频时长
